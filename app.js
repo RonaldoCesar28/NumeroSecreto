@@ -1,7 +1,7 @@
 // const prompt = require('prompt-sync')();
 
 alert('Boas vindas ao jogo do número secreto');
-let numeroMaximo = 1000;
+let numeroMaximo = 100;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1); //gerar número aleatório
 console.log(numeroSecreto);
 let chute;
