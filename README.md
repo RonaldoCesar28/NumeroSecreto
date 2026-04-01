@@ -11,3 +11,4 @@
 </div>
 
 # Desenvolvedor
+<img src="https://github.com/user-attachments/assets/e92a9d15-8cda-4b84-a0e4-46a08ab7c500" width="150px" />
