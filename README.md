@@ -1,14 +1,16 @@
 <h1>Jogo do Número Secreto</h1>
 
 <h2> 📝 Sobre</h2>
-<p>Projeto utilizado nos curso de lógica de programação da Alura</p>
+<h3> <p>Projeto Utilizado no Curso de Lógica de Programação</p> </h3>
 
 ## 🚀 Tecnologias
 <div>
    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
 </div>
 
 # Desenvolvedor
-<img src="https://github.com/user-attachments/assets/e92a9d15-8cda-4b84-a0e4-46a08ab7c500" width="120px" /><br>Ronaldo Cesar
+<img src="https://github.com/user-attachments/assets/c7a6e9ed-d509-4f2a-b857-c832d6973a54" width="120px"/><br>Ronaldo Cesar
